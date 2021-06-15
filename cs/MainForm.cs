@@ -202,7 +202,7 @@ namespace Ukol3
                         break;
 
                 }
-                switch (Convert.ToString(comboBox1.SelectedItem))
+                switch (Convert.ToString(comboBox2.SelectedItem))
                 {
                     case "Desitkova":
                         zapisVysledek(Convert.ToString(cislo));

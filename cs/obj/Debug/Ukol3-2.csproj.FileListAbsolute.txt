@@ -1,0 +1,5 @@
+D:\Files\Programming\C#\wtf\Ukol3-2\Ukol3-2\bin\Debug\Ukol3-2.exe
+D:\Files\Programming\C#\wtf\Ukol3-2\Ukol3-2\bin\Debug\Ukol3-2.pdb
+D:\Files\Programming\C#\wtf\Ukol3-2\Ukol3-2\obj\Debug\Ukol3-2.csprojResolveAssemblyReference.cache
+D:\Files\Programming\C#\wtf\Ukol3-2\Ukol3-2\obj\Debug\Ukol3-2.exe
+D:\Files\Programming\C#\wtf\Ukol3-2\Ukol3-2\obj\Debug\Ukol3-2.pdb

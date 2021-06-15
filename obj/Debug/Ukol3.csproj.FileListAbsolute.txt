@@ -1,5 +1,0 @@
-D:\Files\Programming\C#\wtf\Ukol3\obj\Debug\Ukol3.csprojResolveAssemblyReference.cache
-D:\Files\Programming\C#\wtf\Ukol3\bin\Debug\Ukol3.exe
-D:\Files\Programming\C#\wtf\Ukol3\bin\Debug\Ukol3.pdb
-D:\Files\Programming\C#\wtf\Ukol3\obj\Debug\Ukol3.exe
-D:\Files\Programming\C#\wtf\Ukol3\obj\Debug\Ukol3.pdb
