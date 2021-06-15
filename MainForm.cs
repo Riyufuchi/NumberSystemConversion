@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -189,7 +189,7 @@ namespace Ukol3
             int cislo = 0;
             if (textBox1.Text != "")
             {
-                switch (comboBox1.SelectedItem)
+            	switch (Convert.ToString(comboBox1.SelectedItem))
                 {
                     case "Dvojkova":
                         cislo = binaryToDeci(textBox1.Text);
@@ -202,7 +202,7 @@ namespace Ukol3
                         break;
 
                 }
-                switch (comboBox2.SelectedItem)
+                switch (Convert.ToString(comboBox1.SelectedItem))
                 {
                     case "Desitkova":
                         zapisVysledek(Convert.ToString(cislo));
